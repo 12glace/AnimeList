@@ -1,0 +1,28 @@
+.search{
+  
+    .button{
+        margin: 2%;
+        background-color: #f1afaf !important;
+        color: white!important;
+    }
+    .search-box{
+        display: flex;
+        justify-content: center;
+        margin-top: 50px;
+        margin-bottom: 50px;
+    }
+    .uneQuestion{
+        .button{
+            background-color: white !important;
+            color:#f1afaf !important;
+        }        
+    }
+}
+.anime-item{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    color: white;
+}

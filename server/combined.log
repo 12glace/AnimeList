@@ -1,0 +1,123 @@
+{
+  meta: {
+    req: {
+      url: '/create',
+      headers: {
+        host: 'localhost:3001',
+        connection: 'keep-alive',
+        'sec-ch-ua': '"Not?A_Brand";v="8", "Chromium";v="108", "Google Chrome";v="108"',
+        'sec-ch-ua-mobile': '?0',
+        'sec-ch-ua-platform': '"Windows"',
+        'upgrade-insecure-requests': '1',
+        'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36',
+        accept: 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+        'sec-fetch-site': 'none',
+        'sec-fetch-mode': 'navigate',
+        'sec-fetch-user': '?1',
+        'sec-fetch-dest': 'document',
+        'accept-encoding': 'gzip, deflate, br',
+        'accept-language': 'fr-FR,fr;q=0.9,en-US;q=0.8,en;q=0.7',
+        cookie: '_shopify_y=5bd2dcd4-13FB-4F40-D9AD-DC4BE6E19DF8'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/create',
+      query: {}
+    },
+    res: { statusCode: 404 },
+    responseTime: 4
+  },
+  level: 'info',
+  message: 'HTTP GET /create',
+  timestamp: '2023-01-19T18:46:43.038Z'
+}
+{
+  meta: {
+    req: {
+      url: '//create',
+      headers: {
+        host: 'localhost:3001',
+        'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/109.0',
+        accept: 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8',
+        'accept-language': 'fr,fr-FR;q=0.8,en-US;q=0.5,en;q=0.3',
+        'accept-encoding': 'gzip, deflate, br',
+        connection: 'keep-alive',
+        cookie: 'g_state={"i_l":0}; _shopify_y=ec2b7a72-2C66-428B-68D0-76991CC9F947',
+        'upgrade-insecure-requests': '1',
+        'sec-fetch-dest': 'document',
+        'sec-fetch-mode': 'navigate',
+        'sec-fetch-site': 'none',
+        'sec-fetch-user': '?1'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '//create',
+      query: {}
+    },
+    res: { statusCode: 404 },
+    responseTime: 4
+  },
+  level: 'info',
+  message: 'HTTP GET //create',
+  timestamp: '2023-01-20T00:07:18.238Z'
+}
+{
+  meta: {
+    req: {
+      url: '/logout',
+      headers: {
+        host: 'localhost:3001',
+        'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/109.0',
+        accept: 'application/json, text/plain, */*',
+        'accept-language': 'fr,fr-FR;q=0.8,en-US;q=0.5,en;q=0.3',
+        'accept-encoding': 'gzip, deflate, br',
+        origin: 'http://localhost:3000',
+        connection: 'keep-alive',
+        referer: 'http://localhost:3000/',
+        cookie: 'g_state={"i_l":0}; _shopify_y=ec2b7a72-2C66-428B-68D0-76991CC9F947; userId=s%3A0gKS_k2h7e_Pw4ZoQN2ODxXTG7gO1U2A.azAPpEW45G00l8hbwiMdZ177ead7rMVhy%2BEPNwcgbm8',
+        'sec-fetch-dest': 'empty',
+        'sec-fetch-mode': 'cors',
+        'sec-fetch-site': 'same-site'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/logout',
+      query: {}
+    },
+    res: { statusCode: 404 },
+    responseTime: 3
+  },
+  level: 'info',
+  message: 'HTTP GET /logout',
+  timestamp: '2023-01-20T01:18:52.863Z'
+}
+{
+  meta: {
+    req: {
+      url: '/logout',
+      headers: {
+        host: 'localhost:3001',
+        'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/109.0',
+        accept: 'application/json, text/plain, */*',
+        'accept-language': 'fr,fr-FR;q=0.8,en-US;q=0.5,en;q=0.3',
+        'accept-encoding': 'gzip, deflate, br',
+        origin: 'http://localhost:3000',
+        connection: 'keep-alive',
+        referer: 'http://localhost:3000/',
+        cookie: 'g_state={"i_l":0}; _shopify_y=ec2b7a72-2C66-428B-68D0-76991CC9F947; userId=s%3A0gKS_k2h7e_Pw4ZoQN2ODxXTG7gO1U2A.azAPpEW45G00l8hbwiMdZ177ead7rMVhy%2BEPNwcgbm8',
+        'sec-fetch-dest': 'empty',
+        'sec-fetch-mode': 'cors',
+        'sec-fetch-site': 'same-site'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/logout',
+      query: {}
+    },
+    res: { statusCode: 404 },
+    responseTime: 1
+  },
+  level: 'info',
+  message: 'HTTP GET /logout',
+  timestamp: '2023-01-20T01:18:52.870Z'
+}
